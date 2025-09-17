@@ -70,13 +70,17 @@ This will generate datasets in JSON format, for example:
 
 You can generate datasets with specific levels:
 
-Only level=0: synonym-based questions.
-Only level=1 and 2: direct relation and listing questions.
+Only level=0: synonym-based questions. aggregation.
+Only level=1 and 2: direct relation and listing questions, one-hop questions.
+Only level=3: multi-hop questions.
+Only level=4: description/definition questions.
 
 Example outputs:
 
-MiniKGraph_text_dataset_balanced_level0.json
-MiniKGraph_text_dataset_unbalanced_lv1_2.json
+- `MiniKGraph_text_dataset_aggregation.json`
+- `MiniKGraph_text_dataset_onehop.json`
+- `MiniKGraph_text_dataset_multihop.json`
+- `MiniKGraph_text_dataset_definition.json`
 
 ## 📚 Citation
 
@@ -90,4 +94,5 @@ MiniKGraph_text_dataset_unbalanced_lv1_2.json
   organization={SBC}
 }
 ```
+
 
