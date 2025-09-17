@@ -80,6 +80,7 @@ MiniKGraph_text_dataset_unbalanced_lv1_2.json
 
 ## 📚 Citation
 
+```bash
 @inproceedings{navarro2024text,
   title={Text extraction from Knowledge Graphs in the Oil and Gas Industry},
   author={Navarro, Laura P and de Souza, Elvis A and Pacheco, Marco AC},
@@ -88,4 +89,5 @@ MiniKGraph_text_dataset_unbalanced_lv1_2.json
   year={2024},
   organization={SBC}
 }
+```
 
