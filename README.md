@@ -77,3 +77,15 @@ Example outputs:
 
 MiniKGraph_text_dataset_balanced_level0.json
 MiniKGraph_text_dataset_unbalanced_lv1_2.json
+
+## 📚 Citation
+
+@inproceedings{navarro2024text,
+  title={Text extraction from Knowledge Graphs in the Oil and Gas Industry},
+  author={Navarro, Laura P and de Souza, Elvis A and Pacheco, Marco AC},
+  booktitle={Simp{\'o}sio Brasileiro de Tecnologia da Informa{\c{c}}{\~a}o e da Linguagem Humana (STIL)},
+  pages={524--529},
+  year={2024},
+  organization={SBC}
+}
+
